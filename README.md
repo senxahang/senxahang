@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @senxahang
 - 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and java.
 - 💞️ I’m looking to collaborate on anyhthing related to programming.
 - 📫 How to reach me lingdensenxa@gmail.com
 - 😄 Pronouns: he/him
